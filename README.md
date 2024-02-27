@@ -2,4 +2,4 @@
 
 Jay Kerns\
 Anthony Micco\
-Vincent Hepola\
+Vincent Hepola
