@@ -1,4 +1,5 @@
 # YSUStudentProject
 
 Jay Kerns\
-Anthony Micco\ 
+Anthony Micco\
+Vincent Hepola\
