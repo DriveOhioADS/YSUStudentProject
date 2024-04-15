@@ -6,3 +6,5 @@ git+https://github.com/adamerose/pandasgui.git
 boto3
 plotly
 dash
+kaleido
+xlsxwriter
